@@ -9,10 +9,6 @@
   <img src="https://github.com/Nishant040305/Nishant040305/raw/main/assets/divider.gif" width="80%" alt="Divider">
 </p>
 
-<!-- Profile Views Badge -->
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=nishant040305&label=Profile%20Views&color=00FFD1&style=for-the-badge" alt="Profile Views">
-</p>
 
 
 <!-- Social Media Badges -->
@@ -72,3 +68,7 @@
     <img src="https://leetcard.jacoblin.cool/nishant_mohan?ext=contest" alt="Leetcode" height="250" />
   </a>
 </div>
+<!-- Profile Views Badge -->
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=nishant040305&label=Profile%20Views&color=00FFD1&style=for-the-badge" alt="Profile Views">
+</p>
