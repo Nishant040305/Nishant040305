@@ -62,8 +62,3 @@
   <img src="https://github.com/Nishant040305/Nishant040305/raw/main/assets/divider.gif" width="80%" alt="Divider">
 </p>
 
-<p align="center" style="margin-top: 50;" height="79">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=nishant040305&row=1&column=6&margin-w=10&margin-h=10" alt="nishant040305" style="width: 80%;" />
-  </a>
-</p>
